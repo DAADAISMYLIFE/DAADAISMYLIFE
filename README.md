@@ -3,9 +3,8 @@
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
 <div align="center">
-<h3 style="color: #4a4a4a;">🌱 화이트해커가 되기 위해 노력하고 있습니다!</h3>
-<h4 style="color: #4a4a4a;">현재 웹 모의해킹 공부하고 있습니다!</h3>
-<h4 style="color: #4a4a4a;">지는건 굉장히 싫어합니다!</h3>
+<h3 style="color: #4a4a4a;">🌱 공격과 방어를 모두 이해하는 화이트 해커가 되기위해 노력하고 있습니다!</h3>
+<h3 style="color: #4a4a4a;">지는건 굉장히 싫어합니다!</h3>
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
 
