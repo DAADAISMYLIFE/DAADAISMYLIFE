@@ -26,8 +26,8 @@
   <a href="https://solved.ac/qkekdhd">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkekdhd" height="170" />
   </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DAADAISMYLIFE&langs_count=6&layout=compact&theme=synthwave" width="350" height="170" style="object-fit: fill;"/>
 </div>
-
 
 <br/>
 
