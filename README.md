@@ -26,8 +26,8 @@
   <a href="https://solved.ac/qkekdhd">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=qkekdhd" height="170" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAADAISMYLIFE&layout=compact&bg_color=180,412d43,00000000&title_color=ff961f&text_color=ff961f" height="170" />
 </div>
+
 
 <br/>
 
