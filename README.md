@@ -14,7 +14,7 @@
 > **"나는 나만큼 잘났고 나만큼 행복해.."** <br>
 > \- Kyle S. Wyatt, 『In My Life』
 
-- 🎓 **Education**: 동의대학교 컴퓨터소트프웨어공학과 (2020.03 ~ 2026.02 졸업 예정) | **학점 4.4**
+- 🎓 **Education**: 동의대학교 컴퓨터소트프웨어공학과 (2020.03 ~ 2026.02 수석 졸업) | **학점 4.36**
 - 💼 **Experience**: 창업 동아리 **CAHLP** 백엔드 개발자 (2023.12 ~ 2025.01)
 - 🏆 **Role**: `White Hacker` `Backend Developer` `Security Researcher`
 - 📫 **Contact**: qkekdhd@naver.com
